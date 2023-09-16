@@ -1,6 +1,7 @@
 # Harsh's Portfolio
 
-Welcome to my portfolio! This responsive portfolio is built using React and Tailwind CSS, showcasing some of my projects and skills.  
+Welcome to my portfolio! This responsive portfolio website is built using React and Tailwind CSS, showcasing some of my projects and skills.  
+Try both devices, compatible to all devices.
 
 # Deployed at Netlify
 
